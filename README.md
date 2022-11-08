@@ -36,6 +36,11 @@ To install Cypress, type following into terminal:
 * support/pageObject : All Page Object files are under this folder (../support/pageObject).
 * Videos : Videos for each test file can be found in videos folder.
 
+## Test Data
+Faker package is used for creating random names for computer.
+
+To install faker : `npm install faker`
+
 ## How to Run tests
 There are two ways you can run tests via CLI and from cypress GUI
 ### 1. Running tests from CLI
