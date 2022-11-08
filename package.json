@@ -1,0 +1,17 @@
+{
+  "name": "computerdatabaseproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahima",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
